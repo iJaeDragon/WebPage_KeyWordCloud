@@ -12,6 +12,6 @@
 
 ![image](https://github.com/iJaeDragon/WebPage_KeyWordCloud/assets/66985977/be7c2c74-df8e-4ac4-92a2-5e092af8b91a)
 
- ![image](https://github.com/iJaeDragon/WebPage_KeyWordCloud/assets/66985977/edf092d3-645b-4977-b4d4-56b04e8b58a3)
+![image](https://github.com/iJaeDragon/WebPage_KeyWordCloud/assets/66985977/edf092d3-645b-4977-b4d4-56b04e8b58a3)
 
 ![image](https://github.com/iJaeDragon/WebPage_KeyWordCloud/assets/66985977/6c17cc54-aa13-456d-90f0-423fa80d3354)
